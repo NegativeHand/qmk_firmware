@@ -7,8 +7,8 @@
         "pid": "0x0100",
         "device_version": "1.0.0"
     },
-    "manufacturer": "negativehand",
-    "keyboard_name": "keyballsx",
+    "manufacturer": "NegativeHand",
+    "keyboard_name": "keyballSX",
     "rgblight": {
         "driver": "ws2812"
     },
