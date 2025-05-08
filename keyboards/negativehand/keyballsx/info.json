@@ -1,13 +1,14 @@
 {
     "processor": "RP2040",
+    "architecture": "ARM",
     "bootloader": "rp2040",
     "usb": {
         "vid": "0x5957",
         "pid": "0x0100",
         "device_version": "1.0.0"
     },
-    "manufacturer": "Yowkees",
-    "keyboard_name": "Keyball61",
+    "manufacturer": "negativehand",
+    "keyboard_name": "keyballsx",
     "rgblight": {
         "driver": "ws2812"
     },
